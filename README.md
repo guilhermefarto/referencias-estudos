@@ -94,80 +94,80 @@ por Cory Althoff
 
 > ### Python
 
-[Introdução à programação com Python: algoritmos e lógica de programação para iniciantes](https://amzn.com/8575227181)
++ [Introdução à programação com Python: algoritmos e lógica de programação para iniciantes](https://amzn.com/8575227181)
 por Nilo Ney Coutinho Menezes
 
-[Python fluente: programação clara, concisa e eficaz](https://amzn.com/857522462X)
++ [Python fluente: programação clara, concisa e eficaz](https://amzn.com/857522462X)
 por Luciano Ramalho
 
-[Pense em Python: pense como um cientista da computação](https://amzn.com/8575225081)
++ [Pense em Python: pense como um cientista da computação](https://amzn.com/8575225081)
 por Allen B. Downey
 
-[Use a cabeça! Python](https://amzn.com/8550803405)
++ [Use a cabeça! Python](https://amzn.com/8550803405)
 por Barry, Paul
 
-[Python para análise de dados: tratamento de dados com Pandas, NumPy e IPython](https://amzn.com/8575226479)
++ [Python para análise de dados: tratamento de dados com Pandas, NumPy e IPython](https://amzn.com/8575226479)
 por Wes McKinney
 
-[O guia do mochileiro Python: melhores práticas para desenvolvimento](https://amzn.com/8575225413)
++ [O guia do mochileiro Python: melhores práticas para desenvolvimento](https://amzn.com/8575225413)
 por Kenneth Reitz, Tanya Schlusser
 
-[Python Cookbook](https://amzn.com/8575223321)
++ [Python Cookbook](https://amzn.com/8575223321)
 por David Beazley, Brian K. Jones
 
-[Python eficaz: 59 maneiras de programar melhor em Python](https://amzn.com/8575225103)
++ [Python eficaz: 59 maneiras de programar melhor em Python](https://amzn.com/8575225103)
 por Brett Slatkin
 
-[Problemas clássicos de ciência da computação com Python](https://amzn.com/8575228056)
++ [Problemas clássicos de ciência da computação com Python](https://amzn.com/8575228056)
 por David Kopec
 
-[Desenvolvimento Web com Flask: desenvolvendo aplicações Web com Python](https://amzn.com/8575226819)
++ [Desenvolvimento Web com Flask: desenvolvendo aplicações Web com Python](https://amzn.com/8575226819)
 por Miguel Grinberg
 
 > ### Ciência de Dados (Data Science)
 
-[Data Science do zero: primeiras regras com o Python](https://amzn.com/857608998X)
++ [Data Science do zero: primeiras regras com o Python](https://amzn.com/857608998X)
 por Joel Grus
 
-[Python para análise de dados: tratamento de dados com Pandas, NumPy e IPython](https://amzn.com/8575226479)
++ [Python para análise de dados: tratamento de dados com Pandas, NumPy e IPython](https://amzn.com/8575226479)
 por Wes McKinney
 
-[Data Science para negócios](https://amzn.com/8576089726)
++ [Data Science para negócios](https://amzn.com/8576089726)
 por Foster Provost, Tom Fawcett
 
-[Análise de dados com Python e Pandas](https://amzn.com/8575226991)
++ [Análise de dados com Python e Pandas](https://amzn.com/8575226991)
 por Daniel Y. Chen
 
-[Machine Learning - guia de referência rápida: trabalhando com dados estruturados em Python](https://amzn.com/857522817X)
++ [Machine Learning - guia de referência rápida: trabalhando com dados estruturados em Python](https://amzn.com/857522817X)
 por Matt Harrison
 
-[Web scraping com Python: coletando mais dados da Web moderna](https://amzn.com/8575227300)
++ [Web scraping com Python: coletando mais dados da Web moderna](https://amzn.com/8575227300)
 por Ryan Mitchell
 
-[Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow](https://amzn.com/8550803812)
++ [Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow](https://amzn.com/8550803812)
 por Aurélien Géron
 
 > ### Estatística
 
-[Estatística aplicada e probabilidade para engenheiros - 6 Edição](https://amzn.com/852163241X)
++ [Estatística aplicada e probabilidade para engenheiros - 6 Edição](https://amzn.com/852163241X)
 por Douglas C. Montgomery
 
-[Estatística: o que é, para que serve, como funciona](https://amzn.com/8537815128)
++ [Estatística: o que é, para que serve, como funciona](https://amzn.com/8537815128)
 por Charles Wheelan
 
-[Estatística aplicada](https://amzn.com/8543004772)
++ [Estatística aplicada](https://amzn.com/8543004772)
 por Ron Larson, Betsy Farber
 
-[Como mentir com estatística](https://amzn.com/858057952X)
++ [Como mentir com estatística](https://amzn.com/858057952X)
 por Darrell Huff
 
-[Introdução à estatística](https://amzn.com/8521633742)
++ [Introdução à estatística](https://amzn.com/8521633742)
 por Mário F. Triola
 
-[Estatística prática para cientistas de dados](https://amzn.com/855080603X)
++ [Estatística prática para cientistas de dados](https://amzn.com/855080603X)
 por Andrew Bruce, Peter Bruce
 
-[Guia mangá de estatística](https://amzn.com/857522168X)
++ [Guia mangá de estatística](https://amzn.com/857522168X)
 por Shin Takahashi, Iroha Inoue
 
 ---
