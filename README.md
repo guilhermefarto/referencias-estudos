@@ -147,7 +147,7 @@ por Ryan Mitchell
 [Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow](https://amzn.com/8550803812)
 por Aurélien Géron
 
-### Estatística
+> ### Estatística
 
 [Estatística aplicada e probabilidade para engenheiros - 6 Edição](https://amzn.com/852163241X)
 por Douglas C. Montgomery
