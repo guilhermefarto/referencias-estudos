@@ -6,10 +6,21 @@ Esta página relaciona principais referências e materiais de estudos para difer
 
 ## Livros
 
-> ### Programação
+> ### Computação e algoritmos
 
 + [The art of computer programming, Volumes 1-4A Boxed Set](https://amzn.com/0321751043)
 por Donald Knuth, Donald John Fuller
+
++ [Introduction to algorithms - 3 Edição](https://amzn.com/0262033844)
+por Thomas H. Cormen
+
++ [Introdução à computação - Hardware, software e dados](https://amzn.com/8521631073)
+por André C. P. L. F. de Carvalho, Ana Carolina Lorena
+
++ [Algorithms - 4 Edição](https://amzn.com/032157351X)
+por Robert Sedgewick, Kevin Wayne
+
+> ### Programação
 
 + [Clean Code: a handbook of Agile Software Craftsmanship](https://amzn.com/0132350882)
 por Robert Martin
@@ -20,23 +31,37 @@ por Robert Martin
 + [Clean Coder: a code of conduct for professional programmers](https://amzn.com/B0050JLC9Y)
 por Robert Martin
 
-+ [Effective Java](https://amzn.com/B078H61SCH)
-por Joshua Bloch
-
 + [Refactoring: improving the design of existing code - 2 Edição](https://amzn.com/0134757599)
 por Martin Fowler
 
 + [Refactoring: improving the design of existing code - 1 Edição](https://amzn.com/0201485672)
 por Martin Fowler
 
-+ [The Pragmatic Programmer: your journey to mastery](https://amzn.com/0135957052)
++ [The pragmatic programmer: your journey to mastery](https://amzn.com/0135957052)
 por David Thomas, Andrew Hunt
 
-+ [Patterns of Enterprise Application Architecture](https://amzn.com/B008OHVDFM)
-por Martin Fowler
++ [Cracking the coding interview: 189 programming questions and solutions - 6 Edição](https://amzn.com/0984782850)
+por Gayle Laakmann McDowell
 
-+ [Enterprise Integration Patterns: designing, building, and deploying messaging solutions](https://amzn.com/0321200683)
-por Gregor Hohpe, Bobby Woolf
++ [Code complete: a practical handbook of software construction - 2 Edição](https://amzn.com/0735619670)
+por Steve McConnell
+
++ [The software craftsman: professionalism, pragmatism, pride](https://amzn.com/0134052501)
+por Sandro Mancuso
+
++ [Soft skills: the software developer's life manual](https://amzn.com/0999081446)
+por John Sonmez
+
++ [Peopleware: productive projects and teams](https://amzn.com/0321934113)
+por Tom DeMarco, Tim Lister
+
++ [The effective engineer: how to leverage your efforts in software engineering to make a disproportionate and meaningful impact](https://amzn.com/0996128107)
+por Edmond Lau
+
++ [The self-taught programmer: the definitive guide to programming professionally](https://amzn.com/0999685902)
+por Cory Althoff
+
+> ### Arquitetura de software
 
 + [Microservice patterns: with examples in Java](https://amzn.com/1617294543)
 por Chris Richardson
@@ -50,47 +75,52 @@ por Vaughn Vernon
 + [Domain-Driven Design Distilled](https://amzn.com/0134434420)
 por Vaughn Vernon
 
-+ [Design Patterns: elements of reusable Object-Oriented software]()
-por Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
++ [The DevOps handbook: how to create world-class agility, reliability, and security in technology organizations](https://amzn.com/B01M9ASFQ3)
+por Gene Kim, Jez Humble, Patrick Debois, John Willis
 
-+ [Head First Design Patterns: a brain-friendly guide](https://amzn.com/0596007124)
-por Eric Freeman, Elisabeth Freeman, Kathy Sierra
-
-+ [Introduction to algorithms - 3 Edição](https://amzn.com/0262033844)
-por Thomas H. Cormen
-
-+ [Cracking the coding interview: 189 programming questions and solutions - 6 Edição](https://amzn.com/0984782850)
-por Gayle Laakmann McDowell
-
-+ [Code Complete: a practical handbook of software construction - 2 Edição](https://amzn.com/0735619670)
-por Steve McConnell
++ [Continuous delivery: reliable software releases through build, test, and deployment automation](https://amzn.com/B003YMNVC0)
+por Jez Humble, David Farley
 
 + [Working effectively with legacy code](https://amzn.com/0131177052)
 por Michael Feathers
 
-+ [The software craftsman: professionalism, pragmatism, pride](https://amzn.com/0134052501)
-por Sandro Mancuso
+> ### Java
 
-+ [Soft skills: the software developer's life manual](https://amzn.com/0999081446)
-por John Sonmez
++ [Effective Java](https://amzn.com/B078H61SCH)
+por Joshua Bloch
 
-+ [Continuous Delivery: reliable software releases through build, test, and deployment automation](https://amzn.com/B003YMNVC0)
-por Jez Humble, David Farley
+> ### Padrões de Projeto (em Inglês, _Design Patterns_)
 
-+ [Peopleware: productive projects and teams](https://amzn.com/0321934113)
-por Tom DeMarco, Tim Lister
++ [Design patterns: elements of reusable Object-Oriented software]()
+por Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 
-+ [The effective engineer: how to leverage your efforts in software engineering to make a disproportionate and meaningful impact](https://amzn.com/0996128107)
-por Edmond Lau
++ [Head first design patterns: a brain-friendly guide](https://amzn.com/0596007124)
+por Eric Freeman, Elisabeth Freeman, Kathy Sierra
 
-+ [The DevOps handbook: how to create world-class agility, reliability, and security in technology organizations](https://amzn.com/B01M9ASFQ3)
-por Gene Kim, Jez Humble, Patrick Debois, John Willis
+> ### Integração
 
-+ [Algorithms - 4 Edição](https://amzn.com/032157351X)
-por Robert Sedgewick, Kevin Wayne
++ [Patterns of enterprise application architecture](https://amzn.com/B008OHVDFM)
+por Martin Fowler
 
-+ [The Self-Taught Programmer: the definitive guide to programming professionally](https://amzn.com/0999685902)
-por Cory Althoff
++ [Enterprise integration patterns: designing, building, and deploying messaging solutions](https://amzn.com/0321200683)
+por Gregor Hohpe, Bobby Woolf
+
+> ### Expressões Regulares (em Inglês, _Regular Expressions_)
+
++ [Regular expressions cookbook: detailed solutions in eight programming languages - 2 Edição](https://amzn.com/1449319432)
+por Jay Goyvaerts, Steven Levithan
+
++ [Mastering regular expressions: understand your data and be more productive](https://amzn.com/B007I8S1X0)
+por Jeffrey E. F. Friedl
+
++ [Mastering Python regular expressions](https://amzn.com/1783283157)
+por Felix Lopez, Victor Romero
+
++ [Expressões regulares: uma abordagem divertida - 5 Edição](https://amzn.com/B01BPK1W46)
+por Aurelio Marinho Jargas
+
++ [Introducing regular expressions: unraveling regular expressions, step-By-step](https://amzn.com/1449392687)
+por Michael Fitzgerald
 
 > ### Python
 
@@ -126,6 +156,12 @@ por Miguel Grinberg
 
 > ### Ciência de Dados (Data Science)
 
++ [Projetos de ciência de dados com Python: abordagem de estudo de caso para a criação de projetos de ciência de dados bem-sucedidos usando Python, Pandas e Scikit-Learn](https://amzn.com/B0888SXZVX)
+por Stephen Klosterman
+
++ [Construa uma Carreira em Ciência de Dados](https://amzn.com/B08TB5MFBT)
+por Emily Robinson, Jacqueline Nolis
+
 + [Data Science do zero: primeiras regras com o Python](https://amzn.com/857608998X)
 por Joel Grus
 
@@ -141,11 +177,52 @@ por Daniel Y. Chen
 + [Machine Learning - guia de referência rápida: trabalhando com dados estruturados em Python](https://amzn.com/857522817X)
 por Matt Harrison
 
++ [Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow](https://amzn.com/8550803812)
+por Aurélien Géron
+
+> ### Web Crawling / Web Scrapgin
+
 + [Web scraping com Python: coletando mais dados da Web moderna](https://amzn.com/8575227300)
 por Ryan Mitchell
 
-+ [Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow](https://amzn.com/8550803812)
-por Aurélien Géron
+> ### Storytelling
+
++ [Storytelling with data: a data visualization guide for business professionals](https://amzn.com/B016DHQSM2)
+por Cole Nussbaumer Knaflic
+
++ [Storytelling with data: let's practice!](https://amzn.com/1119621496)
+por Cole Nussbaumer Knaflic
+
++ [Good charts: the HBR guide to making smarter, more persuasive data visualizations](https://amzn.com/B01BO6QM9Q)
+por Scott Berinato
+
+> #### Visualização de Dados (em Inglês, _Data Visualization_ ou _Data Viz_)
+
++ [Data visualization: a practical introduction](https://amzn.com/0691181624)
+por Kieran Healy
+
++ [Fundamentals of data visualization: a primer on making informative and compelling figures](https://amzn.com/1492031089)
+por Claus Wilke
+
++ [Hands-on data visualization: interactive storytelling from spreadsheets to code](https://amzn.com/1492086002)
+por Jack Dougherty, Ilya Ilyankou
+
++ [Data visualization with Excel dashboards and reports](https://amzn.com/1119698723)
+por Dick Kusleika
+
++ [Data visualization with Python: create an impact with meaningful data insights using interactive and engaging visuals](https://amzn.com/1789956463)
+por Mario Döbler, Tim Größmann
+
++ [Interactive data visualization with Python: present your data as an effective and compelling story - 2 Edição](https://amzn.com/1800200943)
+por Abha Belorkar, Sharath Chandra Guntuku, Shubhangi Hora
+
+> ### Inteligência Artificial (em Inglês, _Artificial Intelligence_ ou IA)
+
++ [Inteligência artificial: uma abordagem de aprendizado de máquina](https://amzn.com/8521618808)
+por André Carvalho
+
++ [Inteligência artificial](https://amzn.com/8535237011)
+por Peter Peter Norvig
 
 > ### Estatística
 
