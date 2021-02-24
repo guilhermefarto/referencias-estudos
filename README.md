@@ -180,6 +180,9 @@ por Matt Harrison
 + [Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow](https://amzn.com/8550803812)
 por Aurélien Géron
 
++ [Data Smart: using Data Science to transform information into insight](https://amzn.com/111866146X)
+por John W. Foreman
+
 > ### Web Crawling / Web Scrapgin
 
 + [Web scraping com Python: coletando mais dados da Web moderna](https://amzn.com/8575227300)
