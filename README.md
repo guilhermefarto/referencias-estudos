@@ -84,6 +84,71 @@ por Jez Humble, David Farley
 + [Working effectively with legacy code](https://amzn.com/0131177052)
 por Michael Feathers
 
+> ### User Experience (UX) e Desing Thinking
+
++ [Design Thinking e Thinking Design: metodologia, ferramentas e uma reflexão sobre o tema](https://amzn.com/8575224530)
+por Adriana Melo, Ricardo Abelheira
+
++ [Design Thinking: uma metodologia poderosa para decretar o fim das velhas ideias](https://amzn.com/8550814369)
+por Tim Brown
+
++ [Design Thinking na educação presencial, à distância e corporativa](https://amzn.com/8547215786)
+por Andrea Filatro, Carolina Costa Cavalcanti
+
++ [The Design Thinking quick start guide: a 6-step process for generating and implementing creative solutions](https://amzn.com/1119679893)
+por Isabell Osann, Lena Mayer, Inga Wiele
+
++ [A magia do Design Thinking: um kit de ferramentas para o crescimento rápido da sua empresa](https://amzn.com/8550806145)
+por Jeanne Liedtka, Tim Ogilvie, Bruno Alexander
+
++ [The Design Thinking playbook: mindful Digital Transformation of teams, products, services, businesses and ecosystems](https://amzn.com/1119467470)
+por Michael Lewrick, Patrick Link, Larry Leifer
+
++ [The Design Thinking toolbox: a guide to mastering the most popular and valuable innovation methods](https://amzn.com/1119629195)
+por Michael Lewrick, Patrick Link, Larry Leifer
+
++ [Guia prático do Design Thinking: aprenda 50 ferramentas para criar produtos e serviços inovadores](https://amzn.com/B07KT6D2C8)
+por Bruna Ruschel Moreira
+
++ [Design Thinking: inovação em negócios](https://amzn.com/B0088QPYOA)
+por Maurício Vianna, Ysmar Vianna, Isabel K. Adler, Brenda F. Lucena, Beatriz Russo
+
++ [Sprint: o método usado no Google para testar e aplicar novas ideias em apenas cinco dias](https://amzn.com/8551001523)
+por Jake Knapp, John Zeratsky, Braden Kowitz, Andrea Gottlieb
+
++ [Design Thinking Brasil](https://amzn.com/8550801704)
+por Luis Alt, Tennyson Pinheiro
+
++ [Mindset: a nova psicologia do sucesso](https://amzn.com/8547000240)
+por Carol S. Dweck, S. Duarte
+
++ [Isto é Design Thinking de serviços: fundamentos, ferramentas, casos](https://amzn.com/8582602170)
+por Marc Stickdorn, Jakob Schneider, Clarissa Biolchini, Mariana Bandarra
+
++ [Isto é Design de Serviço na prática: como aplicar o Design de Serviço no mundo real: manual do praticante](https://amzn.com/8582605277)
+por Marc Stickdorn, Adam Lawrence, Markus Hormess, Jakob Schneider, Mariana Belloli Cunha
+
++ [Articulating Design Decisions, 2E: communicate with stakeholders, keep your sanity, and deliver the best User Experience](https://amzn.com/1492079227)
+por Tom Greever
+
++ [Design centrado no usuário](https://amzn.com/8575223666)
+por Travis Lowdermilk
+
++ [A project guide to UX Design: for User Experience designers in the field or in the making](https://amzn.com/0321815386)
+por Russ Unger, Carolyn Chandler
+
++ [Observing the User Experience: a practitioner's guide to User Research](https://amzn.com/0123848695)
+por Elizabeth Goodman, Mike Kuniavsky, Andrea Moed
+
++ [UX for XR: User Experience design and strategies for immersive technologies](https://amzn.com/1484270193)
+por Cornel Hillmann
+
++ [Building Design Systems: unify user experiences through a shared design language](https://amzn.com/148424513X)
+por Sarrah Vesselov, Taurie Davis
+
++ [Designing with data: improving the User Experience with A/B testing](https://amzn.com/1449334830)
+por Rochelle King, Elizabeth Churchill, Caitlin Tan
+
 > ### Java
 
 + [Effective Java](https://amzn.com/B078H61SCH)
