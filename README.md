@@ -84,7 +84,7 @@ por Jez Humble, David Farley
 + [Working effectively with legacy code](https://amzn.com/0131177052)
 por Michael Feathers
 
-> ### User Experience (UX) e Desing Thinking
+> ### User Experience (UX) e Design Thinking
 
 + [Design Thinking e Thinking Design: metodologia, ferramentas e uma reflexão sobre o tema](https://amzn.com/8575224530)
 por Adriana Melo, Ricardo Abelheira
